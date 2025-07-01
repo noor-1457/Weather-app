@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <title>Weather App</title>
+</head>
+<body>
+  <div class="container">
+    <!-- Left Bar -->
+    <div class="left-bar">
+  <div class="png"><img src="clouds.png" alt=""></div>
+      <h1 class="temp">16<sup>o</sup>C</h1>
+      <div class="name">
+        <div class="c-name"><h2>London</h2></div>
+        <div class="date-time"><h5 class="datetime-text"></h5></div>
+      </div>
+    </div>
+
+    <!-- Right Bar -->
+    <div class="right-bar">
+      <div class="search-box">
+      <input class="city" type="text" placeholder="Enter City Name" />
+      <button class="search-btn"><i class="fas fa-search"></i></button>
+      </div>
+      <hr />
+      <h2>Details</h2>
+      <p class="Cloudy">Cloudy:  86%</p>
+      <p class="Humidity">Humidity: 62%</p>
+      <p class="Wind">Wind:      6km/h</p>
+    </div>
+  </div>
+  <script src="app.js" ></script>
+</body>
+</html>
