@@ -3,7 +3,7 @@
 A simple and responsive weather application built using **React** and the **OpenWeatherMap API**. Users can search for real-time weather data by city name, including temperature, humidity, weather conditions, and more.
 
 ## 🚀 Live Demo
-[View Live App](https://your-deployment-link.netlify.app) <!-- Replace with your actual deployment link -->
+[View Live App](https://noor-1457.github.io/Weather-app/) 
 
 ## 🔧 Features
 - 🌍 Search weather by city
