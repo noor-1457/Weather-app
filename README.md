@@ -30,3 +30,9 @@ git clone https://github.com/noor-1457/Weather-app.git
 cd Weather-app
 npm install
 
+
+🙋‍♀️ Author
+Noor Fatima
+GitHub Profile
+
+
